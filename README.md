@@ -3,6 +3,9 @@
 Este projeto é uma calculadora simples desenvolvida em Python utilizando o framework Kivy para criar interfaces gráficas.
 O aplicativo permite realizar operações matemáticas básicas como adição, subtração, multiplicação e divisão.
 
+
+EXECUTE O COMANDO "npm install" antes de executar
+
 📌 Funcionalidades
 
 Interface gráfica responsiva com botões numéricos e de operações.
@@ -41,8 +44,11 @@ Clone o repositório ou baixe os arquivos.
 
 No terminal, navegue até a pasta onde está o script.
 
-Execute:
+
 
 python calculadora.py
 
-📸 Captura de Tela
+<img width="800" height="626" alt="calcPYTHON" src="https://github.com/user-attachments/assets/c32d432b-8dc8-4fc7-af5e-9d65129c2df7" />
+
+
+
